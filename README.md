@@ -1,4 +1,6 @@
 ### Hi there 👋 👀👀👀👀👀👀👀👀👀👀👀👀
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 
 https://github.com/kyechan99/capsule-render  <!-- readme.md 꾸밀때 참조
 # 제목 1 (h1)
