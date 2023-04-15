@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=LEE%20CHANGSOON&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=LEE%20CHANGSOON&fontSize=90&align=center)
 <div align="center">
 
 
