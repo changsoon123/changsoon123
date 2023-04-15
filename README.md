@@ -1,6 +1,5 @@
 ### Hi there 👋 👀👀👀👀👀👀👀👀👀👀👀👀
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Leechangsoon%20&fontAlign=70&stroke=00FF00&strokeWidth=3)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>   <---뱃지 연습
 
