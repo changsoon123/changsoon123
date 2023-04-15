@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Leechangsoon%20&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>   <---뱃지 연습
-<img src="https://img.shields.io/badge/JAVA?style=plastic&logo=JavaScript&logoColor=black""/>
+<img src="https://img.shields.io/badge/JAVA?style=plastic&logo=Java&logoColor=black""/>
 
 https://github.com/kyechan99/capsule-render  <!-- readme.md 꾸밀때 참조
 
