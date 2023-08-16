@@ -17,6 +17,7 @@ https://simpleicons.org/ <----readme.md 꾸밀때 참조
  
      리눅스마스터2급 / 한국정보통신진흥협회 / 2023.03.31
           SQLD / 한국데이터산업진흥원 / 2023.04.13
+          AWS Cloud Practitioner / AWS / 2023.08.07
 ---
  
  <!-- ### 제목 3 (h3)
