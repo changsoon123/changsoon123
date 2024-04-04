@@ -31,6 +31,8 @@ https://simpleicons.org/ <----readme.md 꾸밀때 참조
           AWS Cloud Practitioner / AWS / 2023.08.07
           자바 풀스택 개발자 과정 / 국비 지원 / 2023.02.16 ~ 2023.08.07
 ---
+
+- 🌱 I’m currently learning ...
  
  <!-- ### 제목 3 (h3)
 #### 제목 4 (h4)
