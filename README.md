@@ -34,7 +34,7 @@ https://simpleicons.org/ <----readme.md 꾸밀때 참조
           AWS Cloud Practitioner / AWS / 2023.08.07
           네트워크 관리사 2급 / 한국정보통신자격협회 / 2024.10.08
           ISTQB Foundation level / International Software Testing / 2024.10.24
-          정보처리기사(실기 가채점 합격,6월 13일 발표) / 한국산업인력공단 / 2025.06.13
+          정보처리기사 / 한국산업인력공단 / 2025.06.13
 ---
 ### Education
 
